@@ -1,7 +1,8 @@
 ### Olá! Sou Diego Santos Fonseca.
 
-- 🔭 Hoje trabalho como QA Analyst Sênior.
-- 🌱 Estudando SISTEMAS PARA INTERNET.
+- 🔭 Hoje trabalho como QA Eginer Chappter.
+- 🌱 Graduado em SISTEMAS PARA INTERNET.
+- Estudando Analise e Desenvolvimento de sistemas.
 - 📫 Contate-me no email: diego.michaelll@gmail.com
 
 <div>
