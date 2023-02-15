@@ -1,8 +1,7 @@
 ### Olá! Sou Diego Santos Fonseca.
 
-- 🔭 Hoje trabalho como QA Eginer Chappter.
-- 🌱 Graduado em SISTEMAS PARA INTERNET.
-- Estudando Analise e Desenvolvimento de sistemas.
+- 🔭 Hoje trabalho como Staff Engineer Analyst.
+- 🌱 Graduado em Analise e Desensolvimento de Sistemas.
 - 📫 Contate-me no email: diego.michaelll@gmail.com
 
 <div>
