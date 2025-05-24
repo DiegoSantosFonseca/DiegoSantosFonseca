@@ -1,7 +1,7 @@
 ### Olá! Sou Diego Santos Fonseca.
 
-- 🔭 Hoje trabalho como Staff Engineer Analyst.
-- 🌱 Graduado em Analise e Desensolvimento de Sistemas.
+- 🔭 Atuo como Coordenador de Engenharia de Qualidade.
+- 🌱 Bacharelado em Analise e Desensolvimento de Sistemas.
 - 📫 Contate-me no email: diego.michaelll@gmail.com
 
 <div>
